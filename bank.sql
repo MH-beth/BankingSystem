@@ -71,7 +71,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `email`, `balance`, `adresse`, `admin`, `statue`, `fname`, `lname`) VALUES
-(1, 'root', 'rootP', 'root@root.com', 156454554, '154edf465edb', 'neon', 'admin', 'root', 'root');
+(1, 'root', 'tqqvR', 'root@root.com', 156454554, '154edf465edb', 'neon', 'admin', 'root', 'root');
 
 --
 -- Index pour les tables déchargées
