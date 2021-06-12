@@ -1,0 +1,16 @@
+﻿  banking.cpp
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 2 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 3 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-15s' nécessite un argument de type 'char *', mais l'argument variadique 4 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 5 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 6 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 7 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(85,10): warning C4477: 'printf' : la chaîne de format '%-10s' nécessite un argument de type 'char *', mais l'argument variadique 8 est de type 'std::string'
+C:\Users\mouad\source\repos\banking\banking\banking.cpp(686,8): warning C4101: 'balance' : variable locale non référencée
+  Génération de code en cours
+  3 of 368 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  banking.vcxproj -> C:\Users\mouad\source\repos\banking\x64\Release\banking.exe
