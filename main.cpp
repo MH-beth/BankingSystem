@@ -84,11 +84,6 @@ public:
 		printf("| %-10s | %-10s | %-10s | %-10s | %-10s | %-10s | %-10s | %-10s |\n", "username", "password", "email", "Firstname", "Lastname", "balance", "Adress", "statue");
 		printf("| %-10s | %-10s | %-10s | %-15s | %-10s | %-10s | %-10s | %-10s |\n", this->m_username, this->m_enPassword, this->m_email, this->m_fname, this->m_lname, this->balanceString, this->m_adress, this->m_statue);
 		system("PAUSE");
-		std::cout << "Balance : " << this->m_balance << " " << userData[6] <<std::endl;
-		system("PAUSE");
-		this->m_balance++;
-		std::cout << "New Balance : " << this->m_balance << std::endl;
-		system("PAUSE");
 	}
 	void UpdateUser()
 	{
